@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-#Programming Assignement 2 - cache 	Matrix
+
+#Programming Assignement 2 - Cache Matrix
 
 #starting the code
 
